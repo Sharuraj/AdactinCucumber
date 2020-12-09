@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Verify the user is able to book a hotel in the application
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.875 s - in Scenario: Verify the user is able to book a hotel in the application

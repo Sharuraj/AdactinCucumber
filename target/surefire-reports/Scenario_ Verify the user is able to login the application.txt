@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Verify the user is able to login the application
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.324 s - in Scenario: Verify the user is able to login the application
