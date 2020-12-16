@@ -18,6 +18,7 @@ Examples:
 |raj|111|
 |Sharuraj|mypass123|
 
+@RegressionTest
   Scenario: Verify the user is able search hotels in the application
     When User able to select location "7" as "index" from the location dropdown field
     And User able to select hotels "Hotel Hervey" as "value" from the hotel dropdown field
@@ -30,6 +31,7 @@ Examples:
     And User clicks on the search button
     Then User verifies whether Search Page navigates to Search Comfirmation Page
 
+@SanityTest
   Scenario: Verify the user is able to select hotel in the application
     When User able to choose the radio button to confirm the search
     And User clicks on the continue button
